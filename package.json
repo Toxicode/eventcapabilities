@@ -2,7 +2,7 @@
   "name": "Add event capabilities",
   "description": "Add event capabilities to a Javascript Object",
   "version": "0.0.1",
-  "author": "Toxicode (www.toxicode.fr)",
+  "author": "Pierre Lancien, for Toxicode (www.toxicode.fr)",
   "repository": {
     "type": "git",
     "url": "https://github.com/Toxicode/eventcapabilities"
